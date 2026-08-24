@@ -1,0 +1,6 @@
+openai>=1.40,<2.0
+pandas>=2.0
+pyarrow>=12.0
+httpx[socks]>=0.24
+tenacity>=8.0
+pm-rank>=0.2.25
